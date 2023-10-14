@@ -1,6 +1,6 @@
 # UnityProject
-## Unity 엔진으로 제작한 프로젝트입니다.
-## Directory 설명을 참고하여 파일 확인 부탁 드립니다.
+### Unity 엔진으로 제작한 프로젝트입니다.
+### Directory 설명을 참고하여 파일 확인 부탁 드립니다.
 ### 1. Dungeon_Version2 소스 위치
   + Assets > Script
     + ArrowAct.cs: 필드 위치 기본설정
